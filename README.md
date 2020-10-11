@@ -11,9 +11,9 @@ In this project , we have trained a Deep `Convolutional Neural Network (CNN)` to
 
 Input Image(32x32)
 
-<img align = "right"  src="https://github.com/ritika-singh2000/Traffic-Sign-Classification-Using-Deep-Learning-/blob/main/target_classes.png" width ="300" height ="200" > 
-<img align = "left" src="https://github.com/ritika-singh2000/Traffic-Sign-Classification-Using-Deep-Learning-/blob/main/stop.jpg" width="150" height ="150"> 
-<img align = "center" src="https://github.com/ritika-singh2000/Traffic-Sign-Classification-Using-Deep-Learning-/blob/main/classifier.png" width="420" height ="200">
+<img align = "right"  src="https://github.com/ritika-singh2000/Traffic-Sign-Classification-Using-Deep-Learning-/blob/main/target_classes.png" width ="200" height ="200" > 
+<img align = "left" src="https://github.com/ritika-singh2000/Traffic-Sign-Classification-Using-Deep-Learning-/blob/main/stop.jpg" width="100" height ="150"> 
+<img align = "center" src="https://github.com/ritika-singh2000/Traffic-Sign-Classification-Using-Deep-Learning-/blob/main/classifier.png" width="300" height ="200">
 
 
 
